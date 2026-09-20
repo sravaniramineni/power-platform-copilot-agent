@@ -1,0 +1,4 @@
+{"id": "u1", "utterance": "where is my invoice", "expected_topic": "Invoice status"}
+{"id": "u2", "utterance": "reset my password", "expected_topic": "IT helpdesk"}
+{"id": "u3", "utterance": "parental leave policy", "expected_topic": "HR policy"}
+{"id": "u4", "utterance": "talk to a human", "expected_topic": "Escalation"}
